@@ -1,1 +1,1 @@
-# Gradient-Generator-Project the new
+# Gradient-Generator-Project
